@@ -1,5 +1,8 @@
 # C# Sample Accelerator
 
+> **NOTE** This repo has been archived and the sample has moved to:  
+> https://github.com/vmware-tanzu/application-accelerator-samples/tree/main/weatherforecast-csharp
+
 A sample accelerator for C#.
 
 This sample is the Weather Forecast RESTful API application made available from Microsoft.
